@@ -17,6 +17,7 @@ body {
     line-height: 30.52px;
     text-decoration: none;
     color: var(--primary-page-color);
+    font-family: 'Raleway', sans-serif;
 }
 .page-header{
     background-color: #FFFFFF;
@@ -33,6 +34,7 @@ body {
   font-size: 14px;
   font-weight: 500;
   line-height: 16.41px;
+  font-family: 'Roboto', sans-serif;
 
 }
 
@@ -43,7 +45,6 @@ body {
 
 .site-nav .text-nav-color.current{
     color: #2196F3;
-    border: ;
 }
 
 .auth-nav a{
@@ -53,6 +54,7 @@ body {
         font-size: 14px;
         font-weight: 500;
         line-height: 16.41px;
+        font-family: 'Roboto', sans-serif;
 
 }
 /* main */
@@ -65,6 +67,7 @@ body {
     width: 200px;
     height: 50px;
     border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .button-decoration:hover,
@@ -83,6 +86,7 @@ body {
     font-size: 44px;
     line-height: 60px;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 .section-benefits{
     background-color: #FFFFFF;
@@ -92,6 +96,7 @@ font-weight: 700;
 font-size: 14px;
 line-height: 16.41px;
 color: var(--primary-page-color);
+font-family: 'Roboto', sans-serif;
 }
 
 .section-benefits p{
@@ -99,6 +104,7 @@ font-weight: 400;
 font-size: 14px;
 line-height: 24px;
 color: var(--secondary-page-color);
+font-family: 'Roboto', sans-serif;
 }
 .section-do{
     background-color: #FFFFFF;
@@ -109,6 +115,7 @@ font-size: 36px;
 line-height: 42.19px;
 color: var(--primary-page-color);
 text-align: center;
+font-family: 'Roboto', sans-serif;
 }
 
 .section-do  img{
@@ -126,6 +133,7 @@ height: 294px;
     line-height: 42.19px;
     color: var(--primary-page-color);
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .section-team h3{
@@ -133,6 +141,7 @@ height: 294px;
     font-weight: 500;
     line-height: 19px;
     color: var(--primary-page-color);
+    font-family: 'Roboto', sans-serif;
 }
 
 .section-team p{   
@@ -140,6 +149,7 @@ height: 294px;
     font-weight: 400;
     line-height: 19px;
     color: var(--secondary-page-color);
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -152,6 +162,7 @@ height: 294px;
 
 .adress{
     background: #2F303A;
+    
 }
 
 .logo-adress {
@@ -160,6 +171,8 @@ height: 294px;
     line-height: 30.52px;
     text-decoration: none;
     color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+
 }
 
 .adress-street a{
@@ -167,7 +180,9 @@ height: 294px;
         font-weight: 400;
         line-height: 24px;
         color: #FFFFFF;
-        text-decoration: none;   
+        text-decoration: none;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
 }
 
 .adress-amailtel a{
@@ -176,6 +191,8 @@ height: 294px;
         line-height: 24px;
         color: rgba(255, 255, 255, 0.6);
         text-decoration: none;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
 }
 
 /* Portfolio */
@@ -190,6 +207,7 @@ height: 294px;
     font-size: 18px;
     line-height: 36px;
     color: var(--primary-page-color);
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -198,6 +216,7 @@ height: 294px;
     font-weight: 400;
     line-height: 30px;
     color: var(--secondary-page-color);
+    font-family: 'Roboto', sans-serif;
 }
 
 .button{
@@ -208,7 +227,7 @@ height: 294px;
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
-
+    font-family: 'Roboto', sans-serif;
 }
 
 .button:hover,
